@@ -1,0 +1,3 @@
+# La aplicación solo usa la biblioteca estándar de Python (Tkinter incluido).
+# Dependencia opcional, solo para ejecutar las pruebas:
+pytest>=7.0
